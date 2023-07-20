@@ -1,0 +1,13 @@
+train/
+train_images/
+*.npy
+__pycache__/
+*.csv
+*.json
+*.jpg
+data/
+saved_model/
+test/
+val_data/
+logs/
+validation/
