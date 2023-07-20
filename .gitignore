@@ -11,3 +11,4 @@ test/
 val_data/
 logs/
 validation/
+.idea/
